@@ -1,5 +1,5 @@
 {
-  "api_url": "https://mostruario-api-production.up.railway.app/",
+  "api_url": "https://mostruario-api-production.up.railway.app",
   "comprar_url": "https://seusitex.com.br/comprar",
   "renovar_url": "https://seusitey.com.br/renovar",
   "versao_minima": "1.0.0",
