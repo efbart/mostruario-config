@@ -1,0 +1,7 @@
+{
+  "api_url": "https://sua-api.railway.app",
+  "comprar_url": "https://seusite.com.br/comprar",
+  "renovar_url": "https://seusite.com.br/renovar",
+  "versao_minima": "1.0.0",
+  "aviso": ""
+}
