@@ -1,7 +1,7 @@
 {
   "api_url": "https://mostruario-api-production.up.railway.app",
-  "comprar_url": "https://seusite.com.br/comprar",
-  "renovar_url": "https://seusite.com.br/renovar",
+  "comprar_url": "http://192.168.1.48/diagramar/webhook_teste.php",
+  "renovar_url": "http://192.168.1.48/diagramar/webhook_teste.php",
   "versao_minima": "1.0.0",
   "aviso": ""
 }
